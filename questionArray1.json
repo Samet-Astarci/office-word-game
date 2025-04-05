@@ -6,5 +6,46 @@
     {
         "question": "Dünyanın en uzun nehri hangisidir?",
         "answer": "Nil"
+    },
+    {
+        "question": "Türkçedeki en uzun kelimelerden biri nedir?",
+        "answer": "Muvaffakiyetsiz"
+    },
+    {
+        "question": "Türk tiyatrosunun önemli yazarlarından biridir, kimdir?",
+        "answer": "Haldun"
+    },
+    {
+        "question": "Matematikte çemberin çevresinin çapına oranı nedir?",
+        "answer": "Pi"
+    },
+    {
+        "question": "Sesli harflerle başlayan kelimelerde kullanılan harf nedir?",
+        "answer": "Yumusak"
+    },
+    {
+        "question": "Türk sinemasında 'Hababam Sinifi' ile tanınan oyuncu kimdir?",
+        "answer": "Kemal"
+    },
+    {
+        "question": "Türk edebiyatında 'Sinekli Bakkal' adlı eseriyle tanınan yazar kimdir?",
+        "answer": "Halide"
+    },
+    {
+        "question": "Tarihte ilk yazının bulunduğu medeniyet hangisidir?",
+        "answer": "Sumer"
+    },
+    {
+        "question": "Pek çok bulusuyla taninan dahi kisidir, kimdir?",
+        "answer": "Edison"
+    },
+    {
+        "question": "En yaygin muzik aletlerinden biridir, tellidir, nedir?",
+        "answer": "Gitar"
+    },
+    {
+        "question": "Dunyanin uydusu olan gok cismi nedir?",
+        "answer": "Ay"
     }
 ]
+
